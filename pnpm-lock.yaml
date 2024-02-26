@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   reveal.js:
-    specifier: 4.5.0
-    version: 4.5.0
+    specifier: 5.0.5
+    version: 5.0.5
 
 devDependencies:
   '@sveltejs/vite-plugin-svelte':
@@ -363,9 +363,9 @@ packages:
       supports-preserve-symlinks-flag: 1.0.0
     dev: true
 
-  /reveal.js@4.5.0:
-    resolution: {integrity: sha512-Lx1hUWhJR7Y7ScQNyGt7TFzxeviDAswK2B0cn9RwbPZogTMRgS8+FTr+/12KNHOegjvWKH0H0EGwBARNDPTgWQ==}
-    engines: {node: '>=10.0.0'}
+  /reveal.js@5.0.5:
+    resolution: {integrity: sha512-MPWPV/cRlkZhh72dAGYv/bUCr9ulwM2/ucCqiL/KN4tvhb6VvN49iwOyWHE08wppj8lMQXi2xbS3kyKgfyTYqg==}
+    engines: {node: '>=18.0.0'}
     dev: false
 
   /rollup@3.20.2:
